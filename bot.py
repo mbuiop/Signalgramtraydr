@@ -18,8 +18,8 @@ class AdvancedTradingBot:
             "قالب چهار": {"rsi": 35, "ema20": 15, "ema50": 30, "upper": 8, "macd": 12},
             "قالب پنج": {"rsi": 28, "ema20": 22, "ema50": 22, "upper": 14, "macd": 14}
         }
-        self.github_token = "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"
-        self.github_repo = "your_username/your_repository"  # باید با اطلاعات واقعی جایگزین شود
+        self.github_token = "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"
+        self.github_repo = "https://github.com/mbuiop/Signalgramtraydr.git"  # باید با اطلاعات واقعی جایگزین شود
         self.github_file_path = "m1.json"
         
     def load_data(self):
